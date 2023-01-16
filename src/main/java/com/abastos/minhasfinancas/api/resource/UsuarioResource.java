@@ -16,7 +16,6 @@ import com.abastos.minhasfinancas.api.dto.UsuarioDTO;
 import com.abastos.minhasfinancas.exception.ErroAutenticacao;
 import com.abastos.minhasfinancas.exception.RegraNegocioException;
 import com.abastos.minhasfinancas.model.entity.Usuario;
-import com.abastos.minhasfinancas.model.repository.LancamentoRepository;
 import com.abastos.minhasfinancas.service.LancamentoService;
 import com.abastos.minhasfinancas.service.UsuarioService;
 
